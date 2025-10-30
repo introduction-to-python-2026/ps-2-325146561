@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6bL5mS2n)
 # PS2: Simple Statistics
 
 This assignment introduces basic statistics through Python functions. You will create and test three functions for finding the maximum number, calculating the mean, and calculating the standard deviation of three given numbers.
