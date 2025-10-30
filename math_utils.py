@@ -1,4 +1,3 @@
-def find_max_number(num1, num2, num3):
     def find_max_number(n1, n2, n3):
     if n1 > n2 :
       if n1 > n3 :
